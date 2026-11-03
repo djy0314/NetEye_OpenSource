@@ -1,0 +1,17 @@
+# 构建产物
+bin/
+obj/
+build/
+*.exe
+*.pdb
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# 运行时生成的文件
+config.ini
+qqwry.dat
+*.log
